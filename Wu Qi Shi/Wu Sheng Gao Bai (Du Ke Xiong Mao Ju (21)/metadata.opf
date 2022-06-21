@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d015393c-1ade-4e61-8881-aca406c68f5c</dc:identifier>
+        <dc:title>无声告白（读客熊猫君出品，2014美国亚马逊年度图书。我们终此一生，就是要摆脱他人的期待，找到真正的自己）</dc:title>
+        <dc:creator opf:file-as="伍绮诗" opf:role="aut">伍绮诗</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-31T16:00:00+00:00</dc:date>
+        <dc:publisher>江苏凤凰文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00ZWTY2JO</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;伍绮诗&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-06-08T15:41:42.073594+00:00"/>
+        <meta name="calibre:title_sort" content="无声告白（读客熊猫君出品，2014美国亚马逊年度图书。我们终此一生，就是要摆脱他人的期待，找到真正的自己）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

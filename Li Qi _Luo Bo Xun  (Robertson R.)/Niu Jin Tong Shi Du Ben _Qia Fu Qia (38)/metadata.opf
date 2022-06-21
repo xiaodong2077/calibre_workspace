@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32f4d2e2-f57e-4558-93dd-b3bf9425b1eb</dc:identifier>
+        <dc:title>牛津通识读本：卡夫卡是谁（中文版）</dc:title>
+        <dc:creator opf:file-as="里奇•罗伯逊 (Robertson R.)" opf:role="aut">里奇•罗伯逊 (Robertson R.)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-30T16:00:00+00:00</dc:date>
+        <dc:publisher>译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544729673</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00I2KOETS</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>①卡夫卡</dc:subject>
+        <dc:subject>F.(1883~1924)-文学研究</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;里奇•罗伯逊 (Robertson R.)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-06-09T14:26:58.568092+00:00"/>
+        <meta name="calibre:title_sort" content="牛津通识读本：卡夫卡是谁（中文版）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

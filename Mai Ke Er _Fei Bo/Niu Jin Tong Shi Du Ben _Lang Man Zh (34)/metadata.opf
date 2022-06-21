@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b9c3264-3b95-4cd0-a73f-4a3a31862196</dc:identifier>
+        <dc:title>牛津通识读本：浪漫主义（中文版）</dc:title>
+        <dc:creator opf:file-as="迈克尔•费伯" opf:role="aut">迈克尔•费伯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-28T16:00:00+00:00</dc:date>
+        <dc:publisher>译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544776097</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07P61YB1S</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;迈克尔•费伯&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-06-09T14:22:21.505096+00:00"/>
+        <meta name="calibre:title_sort" content="牛津通识读本：浪漫主义（中文版）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

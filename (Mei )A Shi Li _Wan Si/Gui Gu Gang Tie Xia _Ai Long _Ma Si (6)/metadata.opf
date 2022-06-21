@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">642586e0-9121-4944-88a6-53be227c928c</dc:identifier>
+        <dc:title>硅谷钢铁侠：埃隆·马斯克的冒险人生( 了解马斯克全面、真实、经典读本。硅谷传奇创业者的创新秘密。他是风格独具的梦想家、创业家与工业家，也是眼光独到、一再开创新商业模式的企业家。)</dc:title>
+        <dc:creator opf:file-as="(美)阿什利·万斯" opf:role="aut">(美)阿什利·万斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-30T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508660455</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01ESWMKBC</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;(美)阿什利·万斯&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-06-08T15:23:50.109879+00:00"/>
+        <meta name="calibre:title_sort" content="硅谷钢铁侠：埃隆·马斯克的冒险人生( 了解马斯克全面、真实、经典读本。硅谷传奇创业者的创新秘密。他是风格独具的梦想家、创业家与工业家，也是眼光独到、一再开创新商业模式的企业家。)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

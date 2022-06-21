@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea5ad0e1-5ed2-47a8-bec8-a9f77ed15b94</dc:identifier>
+        <dc:title>一九八四（多一个人读《一九八四》，就多一个自由的人！）</dc:title>
+        <dc:creator opf:file-as="乔治·奥威尔" opf:role="aut">乔治·奥威尔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-30T16:00:00+00:00</dc:date>
+        <dc:publisher>北京十月文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00F84P1K2</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;乔治·奥威尔&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-06-08T15:41:41.583676+00:00"/>
+        <meta name="calibre:title_sort" content="一九八四（多一个人读《一九八四》，就多一个自由的人！）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

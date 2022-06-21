@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30962509-e8f2-4919-83aa-b41bf5428265</dc:identifier>
+        <dc:title>我的几何人生:丘成桐自传（像“数学皇帝”丘成桐一样思考，领略数学之美，触摸人类智慧的边界！在哈佛，丘成桐一个人就是一个数学系！）</dc:title>
+        <dc:creator opf:file-as="丘成桐 &amp; 史蒂夫•纳迪斯" opf:role="aut">丘成桐</dc:creator>
+        <dc:creator opf:file-as="丘成桐 &amp; 史蒂夫•纳迪斯" opf:role="aut">史蒂夫•纳迪斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-01T16:00:00+00:00</dc:date>
+        <dc:publisher>译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544785327</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08XVZ63B3</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;丘成桐&quot;: &quot;&quot;, &quot;史蒂夫•纳迪斯&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-06-08T15:23:50.279841+00:00"/>
+        <meta name="calibre:title_sort" content="我的几何人生:丘成桐自传（像“数学皇帝”丘成桐一样思考，领略数学之美，触摸人类智慧的边界！在哈佛，丘成桐一个人就是一个数学系！）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

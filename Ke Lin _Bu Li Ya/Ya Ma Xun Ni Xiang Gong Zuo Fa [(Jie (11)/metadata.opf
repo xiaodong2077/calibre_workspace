@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4890f32-cc56-4c3b-a1d7-844439810656</dc:identifier>
+        <dc:title>亚马逊逆向工作法【揭秘市值超万亿美元的亚马逊，可复制的工作方法和管理原则！畅销近20个国家和地区，《福布斯》《美联社》《纽约时报》盛赞推荐！杰夫·贝佐斯、亚马逊云科技大中华区执行董事张文翊联袂推荐】</dc:title>
+        <dc:creator opf:file-as="柯林·布里亚 &amp; 比尔·卡尔" opf:role="aut">柯林·布里亚</dc:creator>
+        <dc:creator opf:file-as="柯林·布里亚 &amp; 比尔·卡尔" opf:role="aut">比尔·卡尔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-31T16:00:00+00:00</dc:date>
+        <dc:publisher>北京联合出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09T6KJJM7</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;柯林·布里亚&quot;: &quot;&quot;, &quot;比尔·卡尔&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-06-08T15:23:50.556017+00:00"/>
+        <meta name="calibre:title_sort" content="亚马逊逆向工作法【揭秘市值超万亿美元的亚马逊，可复制的工作方法和管理原则！畅销近20个国家和地区，《福布斯》《美联社》《纽约时报》盛赞推荐！杰夫·贝佐斯、亚马逊云科技大中华区执行董事张文翊联袂推荐】"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

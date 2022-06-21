@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0647a946-8c1f-420f-926f-34b61b78f2bb</dc:identifier>
+        <dc:title>古董局中局4：大结局(文字鬼才马伯庸经典代表作，同名电视剧热播，夏雨/乔振宇/王刚 主演，每一件古董背后，都是历史的积淀和文化的传承。) (马伯庸作品系列)</dc:title>
+        <dc:creator opf:file-as="马伯庸" opf:role="aut">马伯庸</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-27T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08LNMH424</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;马伯庸&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-06-08T15:23:50.429509+00:00"/>
+        <meta name="calibre:title_sort" content="古董局中局4：大结局(文字鬼才马伯庸经典代表作，同名电视剧热播，夏雨/乔振宇/王刚 主演，每一件古董背后，都是历史的积淀和文化的传承。) (马伯庸作品系列)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

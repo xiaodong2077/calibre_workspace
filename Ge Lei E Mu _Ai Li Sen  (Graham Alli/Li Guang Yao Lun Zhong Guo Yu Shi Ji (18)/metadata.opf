@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9bfa6c10-1b1f-4c7c-9397-3288b24dd49d</dc:identifier>
+        <dc:title>李光耀论中国与世界（完整图文版）(浓缩新加坡总理李光耀四十年国家治理经验以及对全球各国的观点，《论中国》作者，美国前国务卿基辛格为本书作序。)</dc:title>
+        <dc:creator opf:file-as="格雷厄姆•艾利森 (Graham Allison) &amp; 阿里•温尼 (Ali Wyne) &amp; 罗伯特•D•布莱克威尔 (Robert D.Blackwill)" opf:role="aut">格雷厄姆•艾利森 (Graham Allison)</dc:creator>
+        <dc:creator opf:file-as="格雷厄姆•艾利森 (Graham Allison) &amp; 阿里•温尼 (Ali Wyne) &amp; 罗伯特•D•布莱克威尔 (Robert D.Blackwill)" opf:role="aut">阿里•温尼 (Ali Wyne)</dc:creator>
+        <dc:creator opf:file-as="格雷厄姆•艾利森 (Graham Allison) &amp; 阿里•温尼 (Ali Wyne) &amp; 罗伯特•D•布莱克威尔 (Robert D.Blackwill)" opf:role="aut">罗伯特•D•布莱克威尔 (Robert D.Blackwill)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-30T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508640143</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00GH4O4XM</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;格雷厄姆•艾利森 (Graham Allison)&quot;: &quot;&quot;, &quot;阿里•温尼 (Ali Wyne)&quot;: &quot;&quot;, &quot;罗伯特•D•布莱克威尔 (Robert D.Blackwill)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-06-08T15:41:41.785227+00:00"/>
+        <meta name="calibre:title_sort" content="李光耀论中国与世界（完整图文版）(浓缩新加坡总理李光耀四十年国家治理经验以及对全球各国的观点，《论中国》作者，美国前国务卿基辛格为本书作序。)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

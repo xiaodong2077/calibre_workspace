@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0de38003-607b-4e17-8927-2fe94c98cfaf</dc:identifier>
+        <dc:title>牛津通识读本：中国文学（中文版）（三千年文学长河，六万字清晰鸟瞰）</dc:title>
+        <dc:creator opf:file-as="（美）桑禀华" opf:role="aut">（美）桑禀华</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-31T16:00:00+00:00</dc:date>
+        <dc:publisher>译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544761345</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01KJV7D7M</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;（美）桑禀华&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-06-09T14:28:57.469000+00:00"/>
+        <meta name="calibre:title_sort" content="牛津通识读本：中国文学（中文版）（三千年文学长河，六万字清晰鸟瞰）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">667ab8c2-fa31-41f2-bfcd-17c4ccccb6ea</dc:identifier>
+        <dc:title>牛津通识读本：科学革命（中文版）</dc:title>
+        <dc:creator opf:file-as="劳伦斯·普林西比" opf:role="aut">劳伦斯·普林西比</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-30T16:00:00+00:00</dc:date>
+        <dc:publisher>译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544745185</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00JP6LGF8</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>①自然科学史-世界</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;劳伦斯·普林西比&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-06-09T14:24:13.716470+00:00"/>
+        <meta name="calibre:title_sort" content="牛津通识读本：科学革命（中文版）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7624f1e7-dfb2-43a7-b391-90462772dfa2</dc:identifier>
+        <dc:title>动物农场（上海译文出品！伟大的人道主义作家乔治·奥威尔最优秀的作品之一，一则入骨三分的反乌托邦的政治讽喻寓言） (译文经典)</dc:title>
+        <dc:creator opf:file-as="乔治·奥威尔(George Orwell)" opf:role="aut">乔治·奥威尔(George Orwell)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-31T16:00:00+00:00</dc:date>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0099MSHJQ</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;乔治·奥威尔(George Orwell)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-06-08T15:41:41.936605+00:00"/>
+        <meta name="calibre:title_sort" content="动物农场（上海译文出品！伟大的人道主义作家乔治·奥威尔最优秀的作品之一，一则入骨三分的反乌托邦的政治讽喻寓言） (译文经典)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

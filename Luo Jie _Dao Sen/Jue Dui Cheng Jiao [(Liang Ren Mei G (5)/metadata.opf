@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98825644-cbe8-4b98-8bd2-90bed542c5af</dc:identifier>
+        <dc:title>绝对成交【两任美国总统首席谈判顾问罗杰·道森为销售员量身定制的说服秘籍！把任何东西卖给任何人的销售经典！全球销量突破100万本！掌握销售4大阶段、34条绝对成交策略，你也可以成为销售领域的Top10%！ 】</dc:title>
+        <dc:creator opf:file-as="罗杰·道森" opf:role="aut">罗杰·道森</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-31T16:00:00+00:00</dc:date>
+        <dc:publisher>北京联合出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09TDR3JLD</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;罗杰·道森&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-06-08T15:23:50.017915+00:00"/>
+        <meta name="calibre:title_sort" content="绝对成交【两任美国总统首席谈判顾问罗杰·道森为销售员量身定制的说服秘籍！把任何东西卖给任何人的销售经典！全球销量突破100万本！掌握销售4大阶段、34条绝对成交策略，你也可以成为销售领域的Top10%！ 】"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

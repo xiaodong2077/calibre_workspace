@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7af7c727-dfe1-4d86-a35b-b67145dd7960</dc:identifier>
+        <dc:title>牛津通识读本：法哲学：价值与事实（中文版）</dc:title>
+        <dc:creator opf:file-as="雷蒙德•瓦克斯 (Wacks R.)" opf:role="aut">雷蒙德•瓦克斯 (Wacks R.)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-30T16:00:00+00:00</dc:date>
+        <dc:publisher>译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544732772</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00I2KOED4</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>法哲学</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;雷蒙德•瓦克斯 (Wacks R.)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-06-09T14:22:21.800435+00:00"/>
+        <meta name="calibre:title_sort" content="牛津通识读本：法哲学：价值与事实（中文版）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

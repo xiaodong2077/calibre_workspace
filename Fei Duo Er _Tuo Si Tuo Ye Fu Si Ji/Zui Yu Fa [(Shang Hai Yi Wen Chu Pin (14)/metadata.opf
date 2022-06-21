@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9663625f-78b8-4f07-ba04-23f24fc98588</dc:identifier>
+        <dc:title>罪与罚【上海译文出品！罗翔教授推荐、著名翻译家岳麟先生权威译本并配有精美黑白插图，被英国《卫报》评为“人生必读书”，豆瓣评分高达9.3】 (陀思妥耶夫斯基文集)</dc:title>
+        <dc:creator opf:file-as="费多尔·陀思妥耶夫斯基 (Fyodor Dostoevsky)" opf:role="aut">费多尔·陀思妥耶夫斯基 (Fyodor Dostoevsky)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-30T16:00:00+00:00</dc:date>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B015R2N6TW</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;费多尔·陀思妥耶夫斯基 (Fyodor Dostoevsky)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-06-08T15:27:59.608440+00:00"/>
+        <meta name="calibre:title_sort" content="罪与罚【上海译文出品！罗翔教授推荐、著名翻译家岳麟先生权威译本并配有精美黑白插图，被英国《卫报》评为“人生必读书”，豆瓣评分高达9.3】 (陀思妥耶夫斯基文集)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
